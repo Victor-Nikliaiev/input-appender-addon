@@ -12,4 +12,4 @@ on this version it's just adds:
 >
 > ### ==========================
 
-So, time and date is generated automatically right on the click.
+So, time and date are generated automatically right on the click.
